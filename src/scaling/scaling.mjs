@@ -5,7 +5,7 @@ export const step = [100, 500, 800, 850]
 export const count = [1, 2, 25, 300]
 
 // triggered
-export const stepT = [99, 250, 500]
+export const stepT = [99, 249, 499]
 export const countT = [1, 4, 20]
 
 export const rightResTrigg = [[25, 1060], [168, 76127], [1229, 5736396]]
